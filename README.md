@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Привет! Я Serhii Aliiev
 
-<!--
-**sergey15kh/sergey15kh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web-разработчик из Украины 🇺🇦  
+Специализируюсь на **WordPress**, **PHP**, **JS**, ACF, кастомных темах и SPA.
 
-Here are some ideas to get you started:
+## 💻 Технологии:
+- PHP / WordPress / ACF
+- HTML / SCSS / JS
+- REST API / AJAX
+- Cron, Telegram API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Проекты:
+- 🔗 [Drevoline.com.ua](https://drevoline.com.ua)
+- 🔗 [Woodcity.ua](https://woodcity.ua)
+
+## 📫 Связь:
+[Telegram](https://t.me/your_username)  
+serhii@example.com
